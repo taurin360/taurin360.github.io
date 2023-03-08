@@ -1,2 +1,2 @@
-*{margin:0;padding:0}header .top-img{background-image:url(../img/TatsumigaokaPark.jpg);background-size:cover}header .top-text{text-align:center;padding:100px 0}header .title{font-size:50px;color:wheat;font-family:"Tilt Neon",cursive}
+*{margin:0;padding:0}header .top-img{background-image:url(../img/Park.jpg);background-size:cover}header .top-text{text-align:center;padding:100px 0}header .title{font-size:50px;color:wheat;font-family:"Tilt Neon",cursive}main{background-color:aqua}main .container{padding:16px 0}main li{text-align:center}main li p{text-align:left;width:180px;margin:0 auto}main li+li{margin-top:32px}
 /*# sourceMappingURL=style.min.css.map */

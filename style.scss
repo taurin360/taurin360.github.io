@@ -15,7 +15,7 @@
 header {
 
   .top-img {
-    background-image: url(../img/TatsumigaokaPark.jpg);
+    background-image: url(../img/Park.jpg);
     background-size: cover;
   }
 
@@ -29,7 +29,36 @@ header {
     color: wheat;
     font-family: 'Tilt Neon', cursive;
   }
+}
+
+// ---------------------
+// main
+// ---------------------
+
+main {
+
+  background-color: aqua;
+
+  .container {
+    padding: 16px 0;
+  }
+
+  li {
+    text-align: center;
+
+    p {
+      text-align: left;
+      width: 180px;
+      margin: 0 auto;
+    }
+  }
+
+  li + li {
+    margin-top: 32px;
+  }
 
 }
+
+
 
 
