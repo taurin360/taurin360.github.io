@@ -17,10 +17,9 @@ header .title {
   font-family: "Tilt Neon", cursive;
 }
 
-main {
-  background-color: aqua;
-}
 main .container {
+  background-image: url(../img/cloth_00146.jpg);
+  background-size: cover;
   padding: 16px 0;
 }
 main li {
