@@ -16,6 +16,14 @@ header .title {
   color: wheat;
   font-family: "Tilt Neon", cursive;
 }
+header .top-ref {
+  text-align: center;
+}
+header .top-ref button {
+  width: 300px;
+  height: 40px;
+  cursor: pointer;
+}
 
 main .container {
   background-image: url(../img/cloth_00146.jpg);
