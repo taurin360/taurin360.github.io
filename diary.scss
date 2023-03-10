@@ -1,0 +1,63 @@
+// ---------------------
+// common
+// ---------------------
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+// ---------------------
+// header
+// ---------------------
+
+body {
+
+  background: #e6e6fa;
+
+// ---------------------
+// header
+// ---------------------
+  
+  header {
+    h1 {
+      font-size: 16px;
+      color: #778899;
+      padding: 24px 0;
+      text-align: center;
+      border-bottom: 1px solid #b0c4de;
+    }
+  }
+
+// ---------------------
+// main
+// ---------------------
+
+  main {
+
+    .nextButton {
+      position: relative;
+      right: 30px;
+    }
+
+
+    ul {
+      padding: 20px 0;
+
+      img {
+        width: 100%;
+      }
+    }
+
+    .displayNon {
+      display: none;
+    }
+
+  }
+
+}
+
+
+
+
+
