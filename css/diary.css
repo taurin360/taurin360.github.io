@@ -13,9 +13,11 @@ body header h1 {
   text-align: center;
   border-bottom: 1px solid #b0c4de;
 }
-body main .nextButton {
-  position: relative;
-  right: 30px;
+body main .before-page {
+  cursor: pointer;
+}
+body main .next-page {
+  cursor: pointer;
 }
 body main ul {
   padding: 20px 0;
